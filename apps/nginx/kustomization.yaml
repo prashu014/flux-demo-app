@@ -4,4 +4,3 @@ namespace: default
 resources:
   - deployment.yaml
   - service.yaml   # if any
-  - namespace.yaml # if using a custom namespace (optional)
